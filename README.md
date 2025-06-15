@@ -254,7 +254,8 @@ From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
 
 <p>
 
-![image](https://github.com/user-attachments/assets/65bbeed7-25c9-42f9-ba51-40b4e15c8b05)
+![image](https://github.com/user-attachments/assets/5de5b997-6148-48db-af07-1fdcb1f3e26a)
+
 
 </p>
 <p>
@@ -263,34 +264,44 @@ From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/124914b6-692f-43e1-8ee2-12d16990a271)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Choose Typical Setup.
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/5aadf256-4fab-42a7-b37c-1a2c1eaa5ea9)
+
+</p>
+<p>
+Launch Configuration Wizard (after install). 
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/7919c076-b489-4669-97d8-0e4793ad8915)
+
+</p>
+<p>
+Choose Standard Configuration. Follow by putting this login information in the setup: Username: root ; Password: root.
+
+
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
