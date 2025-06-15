@@ -79,7 +79,7 @@ Next click on the Create button.
 
 </p>
 <p>
-Log into the VM with Remote Desktop. Use the previous login infomration.
+Log into the VM with Remote Desktop. Use the previous login information.
 
 </p>
 <br />
@@ -90,7 +90,58 @@ Log into the VM with Remote Desktop. Use the previous login infomration.
 
 </p>
 <p>
-Within the VM (osticket-vm), download the osTicket-Installation-Files.zip. 
+Within the VM (osticket-vm), download the osTicket-Installation-Files.zip (https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
+  
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/98c2327d-6051-4bd0-8d7b-93f5e6f2bb30)
+
+</p>
+<p>
+Unzip it onto your desktop.
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/7a91ff19-d545-4fad-949c-44278474726e)
+
+![image](https://github.com/user-attachments/assets/4b99edb6-f940-48fc-9a60-641e88ab1356)
+
+
+</p>
+<p>
+The folder should be called “osTicket-Installation-Files”. We will use the files in this folder to install osTicket and some of the dependencies.
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/cb6dddea-bd34-4c7a-b911-6adfc86108bb)
+
+![image](https://github.com/user-attachments/assets/a5d44b3d-f4c2-471e-bc59-5c6c6db73e09)
+
+
+</p>
+<p>
+In order to Install / Enable IIS in Windows WITH CGI, first go to the Control Panel from the start menu and click on it. Then click on Program [Uninstall Program]
+
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/38fa1db6-74ed-4df1-89b4-4d95ea5ccfe4)
+
+![image](https://github.com/user-attachments/assets/0223b314-55d6-4c61-9fb7-97f71e6d13c5)
+
+
+</p>
+<p>
+From there, click on "Turn Window Features On or Off"
 </p>
 <br />
 
@@ -98,39 +149,8 @@ Within the VM (osticket-vm), download the osTicket-Installation-Files.zip.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Check Internet Information Services box
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
