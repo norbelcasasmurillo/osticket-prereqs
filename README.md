@@ -422,6 +422,232 @@ copy the “upload” folder into “c:\inetpub\wwwroot”
 <br />
 
 <p>
+
+![image](https://github.com/user-attachments/assets/3350994b-81a1-4b85-acd9-bd0a27016da6)
+
+</p>
+<p>
+Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/9de40a17-3b15-4950-9d3a-941307b88176)
+
+![image](https://github.com/user-attachments/assets/af201faa-895a-4d09-9a42-269a498a4a17)
+
+
+</p>
+<p>
+Reload IIS (Open IIS, Stop and Start the server)
+
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/bf96f8a1-2c9d-4155-8cc5-67d9b3b8a62c)
+
+
+</p>
+<p>
+Go to sites -> Default -> osTicket (then click on it)
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/bf96f8a1-2c9d-4155-8cc5-67d9b3b8a62c)
+
+![image](https://github.com/user-attachments/assets/314a5bc3-f84b-4055-b25f-8bcec3331519)
+
+</p>
+<p>
+On the right, click “Browse *:80”
+
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/a2f623aa-e331-4d66-a5fc-9776d1a508c5)
+
+</p>
+<p>
+Note that some extensions are not enabled. Go back to IIS, sites -> Default -> osTicket
+
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/87575a1f-69d8-403d-a9f8-b6ebd7aee6d9)
+
+</p>
+<p>
+Double-click PHP Manager
+
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/2a858bbe-e4b2-4897-9213-8ba72d38422d)
+
+</p>
+<p>
+Click “Enable or disable an extension”
+
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/406d4b20-1141-42b7-bb49-5a621f9c044a)
+
+</p>
+<p>
+Enable: php_imap.dll ; Enable: php_intl.dll ; Enable: php_opcache.dll
+
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/6ee11063-83d1-49c8-90cd-37152e6621f6)
+
+</p>
+<p>
+Refresh the osTicket site in your browser, observe the changes
+
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/291614e6-0c01-4c1e-8fef-635ec061e705)
+
+</p>
+<p>
+Rename: ost-config.php. From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php ; To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/7354ec22-13b0-46eb-886f-79acc6e327b1)
+
+</p>
+<p>
+Assign Permissions: ost-config.php (Right click file and go to properties)
+
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/dcb514d2-a351-45bf-bb6f-96fffdc66c6c)
+
+</p>
+<p>
+Then go to Security -> Advanced
+
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/63e308f0-9363-4a35-84b8-7c65d4ef7c0d)
+
+![image](https://github.com/user-attachments/assets/64aad517-4b18-455e-beed-b6de24c2e1e2)
+
+
+</p>
+<p>
+Disable inheritance -> Remove All
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+New Permissions -> Everyone -> All (Click on add to add New Permissions)
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
