@@ -5,6 +5,11 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
+<h4>Sidenotes:</h4>
+
+- The screenshots shown below are from macbook pro 13 (what I used)
+- Your computer can use any operating system
+
 
 <h2>Video Demonstration</h2>
 
