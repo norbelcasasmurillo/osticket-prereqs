@@ -36,7 +36,9 @@ This tutorial outlines the prerequisites and guides you through installing the o
 Log into Microsoft Azure and head to the virtual machines tab. Click on the + Create Button and press create Azure Virtual Machine. Create an Azure Virtual Machine. Resource Group: create new -> osTicket. Name: osticket-vm. Region: East US 2.
 </p>
 <p>
+  
 ![image](https://github.com/user-attachments/assets/4e3113d6-34f8-4519-8a62-96628c99628a)
+
 </p>
 <br />
 
