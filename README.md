@@ -7,7 +7,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h4>Sidenotes:</h4>
 
-- The screenshots shown below are from macbook pro 13 (what I used)
+- The screenshots shown below are from windows 10 (what I used for personal computer and VM)
 - Your computer can use any operating system
 
 
