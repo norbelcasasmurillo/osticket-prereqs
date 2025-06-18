@@ -7,7 +7,7 @@ This tutorial outlines the prerequisites and guides you through installing the o
 
 <h4>Sidenotes:</h4>
 
-- The screenshots shown below are from windows 10 (what I used for personal computer and VM)
+- The screenshots shown below are from Windows 10 (what I used for my personal computer and VM)
 - Your computer can use any operating system
 
 
