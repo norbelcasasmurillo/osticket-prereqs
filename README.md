@@ -43,9 +43,9 @@ Log into Microsoft Azure and head to the virtual machines tab. Click on the + Cr
 <br />
 
 <p>
-- Resource Group: create new -> osTicket
-- Name: osticket-vm. 
-- Region: East US 2.
+- **Create a new resource group:** `osTicket`  
+- **Virtual machine name:** `osticket-vm`  
+- **Select a region:** East US 2   
 </p>
 <p>
   
