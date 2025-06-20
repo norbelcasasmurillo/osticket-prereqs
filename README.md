@@ -63,7 +63,6 @@ Log into Microsoft Azure and head to the virtual machines tab. Click on the + Cr
 <br />
 
 <p align="center">
-
 Click on the "Review + Create" button.
 
 </p>
