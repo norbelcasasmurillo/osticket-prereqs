@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and guides you through installing the o
 <h2>Installation Steps</h2>
 
 <p align="center">
-Log into Microsoft Azure and head to the virtual machines tab. Click on the + Create Button and press create Azure Virtual Machine. 
+Log into Microsoft Azure and head to the virtual machines tab, then click on the + Create Button and press create Azure Virtual Machine. 
 </p>
 <p>
 
