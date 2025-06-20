@@ -562,7 +562,7 @@ Assign Permissions: ost-config.php (Right click file and go to properties)
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/dcb514d2-a351-45bf-bb6f-96fffdc66c6c)
 
@@ -573,7 +573,7 @@ Then go to Security -> Advanced
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/63e308f0-9363-4a35-84b8-7c65d4ef7c0d)
 
@@ -587,7 +587,7 @@ Disable inheritance -> Remove All
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/52dbb752-00d8-4214-8ce9-9fd94fd43a16)
 
@@ -598,7 +598,7 @@ In order to  go from New Permissions -> Everyone -> All, first click on add to a
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/c783f6cd-b6be-43bf-90af-3633ce9bd494)
 
@@ -609,7 +609,7 @@ Select Principal.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/f28dc13f-b26b-4b5b-aaf5-7759bd61a1c4)
 
@@ -620,7 +620,7 @@ Type everyone, then click check name, then OK.In real life, this is not ideal fo
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/71c8f55b-0651-42e8-b11b-bf6d279aa16a)
 
@@ -631,7 +631,7 @@ Then click full control, then OK.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/1f74d383-1edb-4ec9-bd15-16038cb39f9c)
 
@@ -642,7 +642,7 @@ Make sure in the name it should be ‘‪C:\inetpub\wwwroot\osTicket\include\ost
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/53ca1561-f387-41e9-8412-fedd37bbeec7)
 
@@ -653,7 +653,7 @@ Then click OK in ost-config.php properties.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/f3a289e9-687f-4735-9899-42fb4140606d)
 
@@ -664,7 +664,7 @@ Continue Setting up osTicket in the browser (click Continue)
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/576d0461-1e73-44df-9fd7-17aac02761c4)
 
@@ -675,7 +675,7 @@ Name: Helpdesk ; Default email (receives email from customers) ; (The other emai
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/83dfb887-b26b-4698-8cd1-eebf11359fcf)
 
@@ -686,7 +686,7 @@ Use your admin login info there. (Afterwards move on to the next step, but we ar
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/4b15c016-4926-4669-978d-9bd8129847e5)
 
@@ -700,7 +700,7 @@ Open Heidi SQL to install. (Yes to everything, check launch, and click finish)
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/84c007e0-7f07-4add-8b2d-95992065ca3e)
 
@@ -711,7 +711,7 @@ Click Skip
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/ba2709c8-3d93-4d54-91f4-ef4d85eecc24)
 
@@ -722,7 +722,7 @@ Click New
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/d7f1c652-3852-402b-a149-a3ef193bb057)
 
@@ -733,7 +733,7 @@ Create a new session, root/root, then click open
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/929af70d-ec12-41ad-8594-ed3c69814a27)
 
@@ -744,7 +744,7 @@ Connect to the session.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/eb2758c2-9d5d-4c6b-b20b-9976cc4c0115)
 
@@ -758,7 +758,7 @@ Create a database called “osTicket”, then click OK (You have to right click 
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/a0dc436c-172f-44b6-909b-cbd091fbc9a1)
 
@@ -769,7 +769,7 @@ Continue Setting up osTicket in the browser. MySQL Database: osTicket ; MySQL Us
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/a1878562-275f-4244-9d5c-60343b71ec4c)
 
@@ -783,7 +783,7 @@ Congratulations, hopefully it is installed with no errors! Browse to your help d
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/afe36545-953a-4547-9470-cf49fa3e220d)
 
