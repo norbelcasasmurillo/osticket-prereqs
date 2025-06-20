@@ -84,7 +84,7 @@ Next click on the Create button.
 </p>
 <br />
 
-<p>
+<p align="center">
 Log into the VM with Remote Desktop. Use the previous login information.
 
 </p>
@@ -96,7 +96,7 @@ Log into the VM with Remote Desktop. Use the previous login information.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 Within the VM (osticket-vm), download the osTicket-Installation-Files.zip (https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
 
@@ -109,7 +109,7 @@ Within the VM (osticket-vm), download the osTicket-Installation-Files.zip (https
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/98c2327d-6051-4bd0-8d7b-93f5e6f2bb30)
 
@@ -119,7 +119,7 @@ Unzip it onto your desktop.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/7a91ff19-d545-4fad-949c-44278474726e)
 
@@ -132,7 +132,7 @@ The folder should be called “osTicket-Installation-Files”. We will use the f
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/cb6dddea-bd34-4c7a-b911-6adfc86108bb)
 
@@ -146,7 +146,7 @@ In order to Install / Enable IIS in Windows WITH CGI, first go to the Control Pa
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/38fa1db6-74ed-4df1-89b4-4d95ea5ccfe4)
 
@@ -159,7 +159,7 @@ From there, click on "Turn Window Features On or Off"
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/56d5b9aa-0b44-42bf-9224-bee886db9245)
 
@@ -170,7 +170,7 @@ Check Internet Information Services box.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/92a8adff-14ec-455d-8ab6-4cb8329cc648)
 
@@ -181,7 +181,7 @@ Expand that folder, then expand World Web Web Services folder, then expand Appli
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/5a98852f-e257-4fb1-b62c-4b57195e2b16)
 
@@ -192,7 +192,7 @@ Type 127.0.0.1 in the address bar in a browser in the windows-vm, then press ent
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/795cbf2a-dd00-499e-9e57-15a5bc020de4)
 
@@ -206,7 +206,7 @@ From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/ffb0730b-c87e-4353-b583-0ebfa872be77)
 
@@ -217,7 +217,7 @@ In order to create the directory C:\PHP, first open a new file explorer folder.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/103851e8-aac8-440e-a471-84a8abcc3c80)
 
@@ -228,7 +228,7 @@ Go to the C drive
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/59acfef1-6fd5-4ecb-a8a9-fe2786dd3699)
 
@@ -239,7 +239,7 @@ Create a new folder there, and name it PHP.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/2320ee01-811e-4e9c-baec-c4c836fe0d2f)
 
@@ -255,7 +255,7 @@ From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nt
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/dcee8065-d87f-44e9-8bdd-67a107c88cc8)
 
@@ -266,7 +266,7 @@ From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/5de5b997-6148-48db-af07-1fdcb1f3e26a)
 
@@ -277,7 +277,7 @@ From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/124914b6-692f-43e1-8ee2-12d16990a271)
 
@@ -287,7 +287,7 @@ Choose Typical Setup.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/5aadf256-4fab-42a7-b37c-1a2c1eaa5ea9)
 
@@ -297,7 +297,7 @@ Launch Configuration Wizard (after install).
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/7919c076-b489-4669-97d8-0e4793ad8915)
 
@@ -309,7 +309,7 @@ Choose Standard Configuration. Follow by putting this login information in the s
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/dfcb1271-621b-4d84-b5ba-d5669e0fe255)
 
@@ -321,7 +321,7 @@ Save login information on the desktop with notepad.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/9a954baf-347f-4265-918d-418407b19052)
 
@@ -332,7 +332,7 @@ Open IIS as an Admin
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/1ecb9172-3512-4c30-afae-e7d13a6c5982)
 
@@ -343,7 +343,7 @@ In order to register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe), fi
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/28414cdb-21ba-4d41-a486-cea931fea6cf)
 
@@ -354,7 +354,7 @@ Select Register New PHP version.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/22f7c401-d98d-4cc3-a0b6-ac9f329edf42)
 
@@ -365,7 +365,7 @@ Click the three dots to browse through it.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/e67b3c9f-8c2e-4b58-8669-eb9c7dacc90d)
 
@@ -376,7 +376,7 @@ Go to C drive and into PHP folder. Then select php-cgi.exe. Then click OK.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/a5639752-4a87-4914-ae07-db15a65fe4b9)
 
@@ -387,7 +387,7 @@ in order to reload IIS (Open IIS, Stop and Start the server), click under the Co
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/3a341204-0f54-4de4-a0ed-cede37dfc4b3)
 
@@ -398,7 +398,7 @@ Then Under on the Right handed sidebar that says Action, click on stop.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/2e1150e3-8d3f-4a2a-ae0b-7d02d162394b)
 
@@ -409,7 +409,7 @@ Then click start.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/f2dc74e3-718e-4ae2-a851-e00b2eeb612b)
 
@@ -422,7 +422,7 @@ Then, in order to install osTicket v1.15.8, first from the “osTicket-Installat
 
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/0f581053-8b5f-432a-bf22-1b25a3608837)
 
@@ -435,7 +435,7 @@ copy the “upload” folder into “c:\inetpub\wwwroot”
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/3350994b-81a1-4b85-acd9-bd0a27016da6)
 
@@ -446,7 +446,7 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/9de40a17-3b15-4950-9d3a-941307b88176)
 
@@ -460,7 +460,7 @@ Reload IIS (Open IIS, Stop and Start the server)
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/bf96f8a1-2c9d-4155-8cc5-67d9b3b8a62c)
 
@@ -472,7 +472,7 @@ Go to sites -> Default -> osTicket (then click on it)
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/bf96f8a1-2c9d-4155-8cc5-67d9b3b8a62c)
 
@@ -485,7 +485,7 @@ On the right, click “Browse *:80”
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/a2f623aa-e331-4d66-a5fc-9776d1a508c5)
 
@@ -496,7 +496,7 @@ Note that some extensions are not enabled. Go back to IIS, sites -> Default -> o
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/87575a1f-69d8-403d-a9f8-b6ebd7aee6d9)
 
@@ -507,7 +507,7 @@ Double-click PHP Manager
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/2a858bbe-e4b2-4897-9213-8ba72d38422d)
 
@@ -518,7 +518,7 @@ Click “Enable or disable an extension”
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/406d4b20-1141-42b7-bb49-5a621f9c044a)
 
@@ -529,7 +529,7 @@ Enable: php_imap.dll ; Enable: php_intl.dll ; Enable: php_opcache.dll
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/6ee11063-83d1-49c8-90cd-37152e6621f6)
 
@@ -540,7 +540,7 @@ Refresh the osTicket site in your browser, observe the changes
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/291614e6-0c01-4c1e-8fef-635ec061e705)
 
@@ -551,7 +551,7 @@ Rename: ost-config.php. From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconf
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/7354ec22-13b0-46eb-886f-79acc6e327b1)
 
