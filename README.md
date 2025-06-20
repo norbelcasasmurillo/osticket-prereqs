@@ -48,6 +48,11 @@ Log into Microsoft Azure and head to the virtual machines tab. Click on the + Cr
 - **Create a new resource group:** `osTicket`  
 - **Virtual machine name:** `osticket-vm`  
 - **Region:** East US 2
+- **Operating System:** Windows 10 pro
+- **Size:** 2 vCPUS or higher
+- **Username:** labuser
+- **Password:** osTicketPassword1!
+- **Licensing checkbox:** checked
   
 </p>
 <p>
@@ -57,57 +62,50 @@ Log into Microsoft Azure and head to the virtual machines tab. Click on the + Cr
 </p>
 <br />
 
-<p>
+<p align="center">
 
-![image](https://github.com/user-attachments/assets/784982af-08b7-4293-8ac3-5d4b2e539076)
+Click on the "Review + Create" button.
 
 </p>
 <p>
-Next, while creating an Azure Virtual Machine. Choose Windows 10 pro for the operating system, and for size 4 vCPUs.
-</p>
-<br />
-
-<p>
-
-
+  
 ![image](https://github.com/user-attachments/assets/7c7310a4-8951-43d6-bc34-5c3c53c75824)
-
-</p>
-<p>
-Then fill out using these exact login infomration. Username: labuser ; Password: osTicketPassword1! Also check the box at the bottom for the licensing. Finally, click on teh "Review + Create" button.
-
+  
 </p>
 <br />
 
+<p align="center">
+Next click on the Create button. 
+</p>
 <p>
 
 ![image](https://github.com/user-attachments/assets/ca3be361-e5d2-4267-af35-250b372ecd92)
 
 </p>
-<p>
-Next click on the Create button. 
-</p>
 <br />
 
-<p>
-
-![image](https://github.com/user-attachments/assets/78f10f82-3804-4e54-a4f0-dce5d489d532)
-
-</p>
 <p>
 Log into the VM with Remote Desktop. Use the previous login information.
 
 </p>
+<p>
+
+![image](https://github.com/user-attachments/assets/78f10f82-3804-4e54-a4f0-dce5d489d532)
+
+
+</p>
 <br />
 
 <p>
 
-![image](https://github.com/user-attachments/assets/666cb2c7-6b46-4537-8d19-f568e360d448)
+Within the VM (osticket-vm), download the osTicket-Installation-Files.zip (https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
+
 
 </p>
 <p>
-Within the VM (osticket-vm), download the osTicket-Installation-Files.zip (https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
   
+![image](https://github.com/user-attachments/assets/666cb2c7-6b46-4537-8d19-f568e360d448)
+ 
 </p>
 <br />
 
