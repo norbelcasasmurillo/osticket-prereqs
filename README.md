@@ -613,8 +613,6 @@ Type everyone, then click check name, then OK.In real life, this is not ideal fo
 <p align="center">
 Then click full control, then OK.
 
-![image](https://github.com/user-attachments/assets/71c8f55b-0651-42e8-b11b-bf6d279aa16a)
-
 </p>
 <p>
 
@@ -623,164 +621,160 @@ Then click full control, then OK.
 <br />
 
 <p align="center">
+Make sure in the name it should be ‘‪C:\inetpub\wwwroot\osTicket\include\ost-config.php’. Then click Apply, then OK.
+
+</p>
+<p>
 
 ![image](https://github.com/user-attachments/assets/1f74d383-1edb-4ec9-bd15-16038cb39f9c)
 
 </p>
-<p>
-Make sure in the name it should be ‘‪C:\inetpub\wwwroot\osTicket\include\ost-config.php’. Then click Apply, then OK.
-
-</p>
 <br />
 
 <p align="center">
+Then click OK in ost-config.php properties.
+
+</p>
+<p>
 
 ![image](https://github.com/user-attachments/assets/53ca1561-f387-41e9-8412-fedd37bbeec7)
 
 </p>
-<p>
-Then click OK in ost-config.php properties.
-
-</p>
 <br />
 
 <p align="center">
+Continue Setting up osTicket in the browser (click Continue)
+
+</p>
+<p>
 
 ![image](https://github.com/user-attachments/assets/f3a289e9-687f-4735-9899-42fb4140606d)
 
 </p>
-<p>
-Continue Setting up osTicket in the browser (click Continue)
-
-</p>
 <br />
 
 <p align="center">
+Name: Helpdesk ; Default email (receives email from customers) ; (The other email should be different)
+
+</p>
+<p>
 
 ![image](https://github.com/user-attachments/assets/576d0461-1e73-44df-9fd7-17aac02761c4)
 
 </p>
-<p>
-Name: Helpdesk ; Default email (receives email from customers) ; (The other email should be different)
-
-</p>
 <br />
 
 <p align="center">
+Use your admin login info there. (Afterwards move on to the next step, but we are still not done here)
+
+</p>
+<p>
 
 ![image](https://github.com/user-attachments/assets/83dfb887-b26b-4698-8cd1-eebf11359fcf)
 
 </p>
-<p>
-Use your admin login info there. (Afterwards move on to the next step, but we are still not done here)
-
-</p>
 <br />
 
 <p align="center">
-
-![image](https://github.com/user-attachments/assets/4b15c016-4926-4669-978d-9bd8129847e5)
-
-
-
-</p>
-<p>
 From the “osTicket-Installation-Files” folder, install HeidiSQL. (https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe)
 Open Heidi SQL to install. (Yes to everything, check launch, and click finish)
 
 </p>
+<p>
+
+![image](https://github.com/user-attachments/assets/4b15c016-4926-4669-978d-9bd8129847e5)
+
+</p>
 <br />
 
 <p align="center">
+Click Skip
+
+</p>
+<p>
 
 ![image](https://github.com/user-attachments/assets/84c007e0-7f07-4add-8b2d-95992065ca3e)
 
 </p>
-<p>
-Click Skip
-
-</p>
 <br />
 
 <p align="center">
-
-![image](https://github.com/user-attachments/assets/ba2709c8-3d93-4d54-91f4-ef4d85eecc24)
-
-</p>
-<p>
 Click New
 
 </p>
+<p>
+  
+![image](https://github.com/user-attachments/assets/ba2709c8-3d93-4d54-91f4-ef4d85eecc24)
+
+</p>
 <br />
 
 <p align="center">
+Create a new session, root/root, then click open
+
+</p>
+<p>
 
 ![image](https://github.com/user-attachments/assets/d7f1c652-3852-402b-a149-a3ef193bb057)
 
 </p>
-<p>
-Create a new session, root/root, then click open
-
-</p>
 <br />
 
 <p align="center">
+Connect to the session.
+
+</p>
+<p>
 
 ![image](https://github.com/user-attachments/assets/929af70d-ec12-41ad-8594-ed3c69814a27)
 
 </p>
-<p>
-Connect to the session.
-
-</p>
 <br />
 
 <p align="center">
-
-![image](https://github.com/user-attachments/assets/eb2758c2-9d5d-4c6b-b20b-9976cc4c0115)
-
-![image](https://github.com/user-attachments/assets/e8e133d6-385d-488d-88fb-198f54c3156b)
-
-
-</p>
-<p>
 Create a database called “osTicket”, then click OK (You have to right click Unnamed) (Can refresh this by right clicking after you install in the next step).
 
 </p>
+<p>
+  
+![image](https://github.com/user-attachments/assets/eb2758c2-9d5d-4c6b-b20b-9976cc4c0115)
+
+![image](https://github.com/user-attachments/assets/e8e133d6-385d-488d-88fb-198f54c3156b)
+</p>
 <br />
 
 <p align="center">
+Continue Setting up osTicket in the browser. MySQL Database: osTicket ; MySQL Username: root ; MySQL Password: root ; Click “Install Now!”
+
+</p>
+<p>
 
 ![image](https://github.com/user-attachments/assets/a0dc436c-172f-44b6-909b-cbd091fbc9a1)
 
 </p>
-<p>
-Continue Setting up osTicket in the browser. MySQL Database: osTicket ; MySQL Username: root ; MySQL Password: root ; Click “Install Now!”
-
-</p>
 <br />
 
 <p align="center">
+Congratulations, hopefully it is installed with no errors! Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+
+</p>
+<p>
 
 ![image](https://github.com/user-attachments/assets/a1878562-275f-4244-9d5c-60343b71ec4c)
 
 ![image](https://github.com/user-attachments/assets/547b05dd-4535-404a-b025-905829da1e41)
 
-
-</p>
-<p>
-Congratulations, hopefully it is installed with no errors! Browse to your help desk login page: http://localhost/osTicket/scp/login.php
-
 </p>
 <br />
 
 <p align="center">
+End Users osTicket URL: http://localhost/osTicket/ 
 
-![image](https://github.com/user-attachments/assets/afe36545-953a-4547-9470-cf49fa3e220d)
 
 </p>
 <p>
-End Users osTicket URL: http://localhost/osTicket/ 
+
+![image](https://github.com/user-attachments/assets/afe36545-953a-4547-9470-cf49fa3e220d)
 
 </p>
 <br />
