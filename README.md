@@ -96,7 +96,7 @@ Log into the VM with Remote Desktop. Use the previous login information.
 <br />
 
 <p align="center">
-Within the VM (osticket-vm), download the [osTicket-Installation-Files.zip](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
+Within the VM (osticket-vm), download the osTicket-Installation-Files.zip (https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
 </p>
 <p>
   
