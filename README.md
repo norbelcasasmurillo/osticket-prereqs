@@ -101,7 +101,7 @@ Within the VM (osticket-vm), download the osTicket-Installation-Files.zip
 </p>
 <p>
   
-![image](https://github.com/user-attachments/assets/666cb2c7-6b46-4537-8d19-f568e360d448)
+![image](https://github.com/user-attachments/assets/29e4247b-aa43-49b7-8816-1a89f394b9da)
  
 </p>
 <br />
@@ -112,7 +112,7 @@ Unzip it onto your desktop.
 </p>
 <p>
   
-![image](https://github.com/user-attachments/assets/98c2327d-6051-4bd0-8d7b-93f5e6f2bb30)
+![image](https://github.com/user-attachments/assets/5de7bedc-26ff-4fdd-81f2-fe19358ac25f)
 </p>
 <br />
 
