@@ -78,13 +78,13 @@ Next click on the Create button.
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/ca3be361-e5d2-4267-af35-250b372ecd92)
+![image](https://github.com/user-attachments/assets/0acf1155-957a-4ff2-a903-e12719706ffd)
 
 </p>
 <br />
 
 <p align="center">
-Log into the VM with Remote Desktop. Use the previous login information.
+Log into the VM with Remote Desktop. Use the previous login information, and public IP address from the VM you created.
 
 </p>
 <p>
