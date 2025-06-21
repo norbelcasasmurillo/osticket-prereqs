@@ -147,8 +147,8 @@ From there, click on "Turn Window Features On or Off"
 </p>
 <p>
   
-![image](https://github.com/user-attachments/assets/38fa1db6-74ed-4df1-89b4-4d95ea5ccfe4)
-![image](https://github.com/user-attachments/assets/0223b314-55d6-4c61-9fb7-97f71e6d13c5)
+![image](https://github.com/user-attachments/assets/6b3f0713-1d39-4392-9dfb-8882c4c9c46f)
+
 
 </p>
 <br />
@@ -160,7 +160,7 @@ Check Internet Information Services box.
 </p>
 <p>
   
-![image](https://github.com/user-attachments/assets/56d5b9aa-0b44-42bf-9224-bee886db9245)
+![image](https://github.com/user-attachments/assets/c739f2dd-3cd0-4c29-a27b-a743ceadd434)
 
 </p>
 <br />
@@ -171,7 +171,7 @@ Expand that folder, then expand World Web Web Services folder, then expand Appli
 </p>
 <p>
   
-![image](https://github.com/user-attachments/assets/92a8adff-14ec-455d-8ab6-4cb8329cc648)
+![image](https://github.com/user-attachments/assets/47f39111-96b5-4f0e-ac7a-261ce0323111)
 
 </p>
 <br />
@@ -182,7 +182,7 @@ Type 127.0.0.1 in the address bar in a browser in the windows-vm, then press ent
 </p>
 <p>
   
-![image](https://github.com/user-attachments/assets/5a98852f-e257-4fb1-b62c-4b57195e2b16)
+![image](https://github.com/user-attachments/assets/b3abc05f-8f1c-4731-8ed5-dba7cee528a1)
 
 </p>
 <br />
