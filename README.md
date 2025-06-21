@@ -235,7 +235,7 @@ From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/dcee8065-d87f-44e9-8bdd-67a107c88cc8)
+![image](https://github.com/user-attachments/assets/42b89cd5-5fa9-4112-88e0-6a8f854b42a9)
 
 </p>
 <br />
@@ -247,7 +247,7 @@ From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/5de5b997-6148-48db-af07-1fdcb1f3e26a)
+![image](https://github.com/user-attachments/assets/f7895a75-5a1d-4a71-93f5-5be482e1aec9)
 </p>
 <br />
 
@@ -257,7 +257,7 @@ Choose Typical Setup.
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/124914b6-692f-43e1-8ee2-12d16990a271)
+![image](https://github.com/user-attachments/assets/905db936-52a6-47b3-a7f3-2d9bf958eb5a)
 </p>
 <br />
 
