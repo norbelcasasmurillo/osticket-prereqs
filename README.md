@@ -193,45 +193,27 @@ From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (
 </p>
 <p>
   
-![image](https://github.com/user-attachments/assets/795cbf2a-dd00-499e-9e57-15a5bc020de4)
-![image](https://github.com/user-attachments/assets/7793ed53-82c4-433e-b9f3-065287627293)
+![image](https://github.com/user-attachments/assets/4d11768e-02e5-4586-88eb-394a4e2a8103)
+
 
 </p>
 <br />
 
 <p align="center">
-In order to create the directory C:\PHP, first open a new file explorer folder.
+In order to create the directory C:\PHP, first open a new file explorer folder. Go to the C drive within This PC icon. Create a new folder there, and name it PHP.
+
+
 
 
 </p>
 <p>
   
-![image](https://github.com/user-attachments/assets/ffb0730b-c87e-4353-b583-0ebfa872be77)
+![image](https://github.com/user-attachments/assets/8dbdec81-26fe-4d49-a359-ff5a86771c29)
 
 </p>
 <br />
 
-<p align="center">
-Go to the C drive
 
-</p>
-<p>
-
-![image](https://github.com/user-attachments/assets/103851e8-aac8-440e-a471-84a8abcc3c80)
-
-</p>
-<br />
-
-<p align="center">
-Create a new folder there, and name it PHP.
-
-</p>
-<p>
-  
-![image](https://github.com/user-attachments/assets/59acfef1-6fd5-4ecb-a8a9-fe2786dd3699)
-
-</p>
-<br />
 
 <p align="center">
 From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder.
@@ -239,9 +221,10 @@ From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nt
 </p>
 <p>
   
-![image](https://github.com/user-attachments/assets/2320ee01-811e-4e9c-baec-c4c836fe0d2f)
-![image](https://github.com/user-attachments/assets/7b6026cd-e318-45af-8357-411239c780b7)
-![image](https://github.com/user-attachments/assets/6727870e-83b3-4362-a793-98b83785a47c)
+![image](https://github.com/user-attachments/assets/c1444289-853c-44fa-892a-81001a86af69)
+![image](https://github.com/user-attachments/assets/f5d85226-2f75-42c4-9665-bb958ab23fae)
+
+
 
 </p>
 <br />
