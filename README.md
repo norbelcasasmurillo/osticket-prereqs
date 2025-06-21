@@ -221,8 +221,8 @@ From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nt
 </p>
 <p>
   
-![image](https://github.com/user-attachments/assets/c1444289-853c-44fa-892a-81001a86af69)
-![image](https://github.com/user-attachments/assets/f5d85226-2f75-42c4-9665-bb958ab23fae)
+![image](https://github.com/user-attachments/assets/6147e251-1ea3-47c2-b307-eb25364093a7)
+
 
 
 
