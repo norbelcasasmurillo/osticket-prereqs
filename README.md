@@ -55,7 +55,7 @@ Log into Microsoft Azure and head to the virtual machines tab, then click on the
 - **Licensing checkbox:** checked
   
 </p>
-<p align="center">
+<p>
   
 ![image](https://github.com/user-attachments/assets/5020f5ff-4353-445f-80fe-1e47d42c9a80)
 
