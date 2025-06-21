@@ -89,7 +89,7 @@ Log into the VM with Remote Desktop. Use the previous login information, and pub
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/78f10f82-3804-4e54-a4f0-dce5d489d532)
+![image](https://github.com/user-attachments/assets/5bb961b1-39a3-4559-9641-fbb3aa03385d)
 
 
 </p>
