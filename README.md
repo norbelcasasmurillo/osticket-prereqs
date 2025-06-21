@@ -255,7 +255,7 @@ From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5
 Choose Typical Setup.
 
 </p>
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/905db936-52a6-47b3-a7f3-2d9bf958eb5a)
 </p>
@@ -264,22 +264,20 @@ Choose Typical Setup.
 <p align="center">
 Launch Configuration Wizard (after install). 
 
-![image](https://github.com/user-attachments/assets/5aadf256-4fab-42a7-b37c-1a2c1eaa5ea9)
-
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/5aadf256-4fab-42a7-b37c-1a2c1eaa5ea9)
+![image](https://github.com/user-attachments/assets/554a73e1-91b2-496d-9285-3f9bf4b1e774)
 </p>
 <br />
 
 <p align="center">
-Choose Standard Configuration. Follow by putting this login information in the setup: Username: root ; Password: root.
+Choose Standard Configuration, then next. Then choose "Install As Window Service", then click next. Follow by putting this login information in the setup: Username: root ; Password: root.
 
 </p>
-<p>
+<p align="center">
 
-![image](https://github.com/user-attachments/assets/7919c076-b489-4669-97d8-0e4793ad8915)
+![image](https://github.com/user-attachments/assets/f9cc550a-d110-400d-9ead-f5e8e8d79421)
 
 
 </p>
@@ -291,7 +289,7 @@ Save login information on the desktop with notepad.
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/dfcb1271-621b-4d84-b5ba-d5669e0fe255)
+![image](https://github.com/user-attachments/assets/8a55ddb4-63c9-4762-b291-dc2edb10c7e8)
 
 </p>
 <br />
