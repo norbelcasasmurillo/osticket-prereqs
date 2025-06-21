@@ -57,7 +57,7 @@ Log into Microsoft Azure and head to the virtual machines tab, then click on the
 </p>
 <p>
   
-![image](https://github.com/user-attachments/assets/4e3113d6-34f8-4519-8a62-96628c99628a)
+![image](https://github.com/user-attachments/assets/5020f5ff-4353-445f-80fe-1e47d42c9a80)
 
 </p>
 <br />
