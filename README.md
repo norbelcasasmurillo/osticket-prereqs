@@ -298,8 +298,9 @@ Save login information on the desktop with notepad.
 Open IIS as an Admin
 
 </p>
-<p align="center">
-![image](https://github.com/user-attachments/assets/9a954baf-347f-4265-918d-418407b19052)
+<p>
+
+![image](https://github.com/user-attachments/assets/919fa441-ea8b-45c0-99ac-6d06b848f38f)
 
 </p>
 <br />
