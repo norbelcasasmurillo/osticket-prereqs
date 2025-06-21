@@ -122,8 +122,8 @@ The folder should be called “osTicket-Installation-Files”. We will use the f
 </p>
 <p>
   
-![image](https://github.com/user-attachments/assets/7a91ff19-d545-4fad-949c-44278474726e)
-![image](https://github.com/user-attachments/assets/4b99edb6-f940-48fc-9a60-641e88ab1356)
+![image](https://github.com/user-attachments/assets/8f904d8d-add2-437a-8c67-032203fd03ca)
+
 
 </p>
 <br />
@@ -135,8 +135,8 @@ In order to Install / Enable IIS in Windows WITH CGI, first go to the Control Pa
 </p>
 <p>
   
-![image](https://github.com/user-attachments/assets/cb6dddea-bd34-4c7a-b911-6adfc86108bb)
-![image](https://github.com/user-attachments/assets/a5d44b3d-f4c2-471e-bc59-5c6c6db73e09)
+![image](https://github.com/user-attachments/assets/589b0f52-5de6-4e2a-b28e-6b961214b233)
+
 
 </p>
 <br />
