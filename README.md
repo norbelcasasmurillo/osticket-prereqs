@@ -365,7 +365,7 @@ Then Under on the Right handed sidebar that says Action, click on stop.
 </p>
 </p>
   
-![image](https://github.com/user-attachments/assets/3a341204-0f54-4de4-a0ed-cede37dfc4b3)
+![image](https://github.com/user-attachments/assets/c9b84a5e-9a05-4b31-ac41-c467d2d026de)
 
 </p>
 <br />
@@ -377,7 +377,7 @@ Then click start.
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/2e1150e3-8d3f-4a2a-ae0b-7d02d162394b)
+![image](https://github.com/user-attachments/assets/7f1e590e-7671-4c95-8949-5062bfc4eeeb)
 
 </p>
 <br />
@@ -389,8 +389,8 @@ Then, in order to install osTicket v1.15.8, first from the “osTicket-Installat
 </p>
 </p>
   
-![image](https://github.com/user-attachments/assets/f2dc74e3-718e-4ae2-a851-e00b2eeb612b)
-![image](https://github.com/user-attachments/assets/cf5f80ca-b237-4556-aa2b-bc04fba471e0)
+![image](https://github.com/user-attachments/assets/ecf82832-c4ca-4206-8810-01d61b86c787)
+
 
 <br />
 
@@ -400,9 +400,9 @@ copy the “upload” folder into “c:\inetpub\wwwroot”
 </p>
 </p>
   
-![image](https://github.com/user-attachments/assets/0f581053-8b5f-432a-bf22-1b25a3608837)
+![image](https://github.com/user-attachments/assets/8a5a4382-a699-4227-95c7-1bb86de04922)
 
-![image](https://github.com/user-attachments/assets/713ba414-66b7-4a13-b4e5-4dadf9f10d8a)</p>
+</p>
 <br />
 
 <p align="center">
