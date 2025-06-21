@@ -68,7 +68,7 @@ Click on the "Review + Create" button.
 </p>
 <p>
   
-![image](https://github.com/user-attachments/assets/7c7310a4-8951-43d6-bc34-5c3c53c75824)
+![image](https://github.com/user-attachments/assets/60bf27c6-813f-46a2-b03e-1e0ebb71da00)
   
 </p>
 <br />
