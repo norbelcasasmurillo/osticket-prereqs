@@ -348,12 +348,12 @@ Go to C drive and into PHP folder. Then select php-cgi.exe, then click open. The
 <br />
 
 <p align="center">
-in order to reload IIS (Open IIS, Stop and Start the server), click under the Connections left sidebar, where it says osticket-vm …
+in order to reload IIS (Open IIS, Stop and Start the server),look under the Connections left sidebar, where it says osticket-vm (osTicket-vm\labuser) and double click it.
 
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/a5639752-4a87-4914-ae07-db15a65fe4b9)
+![image](https://github.com/user-attachments/assets/4cfd3f23-0415-4f73-9625-12053e9acb6b)
 
 </p>
 <br />
