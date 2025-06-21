@@ -307,7 +307,7 @@ In order to register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe), fi
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/1ecb9172-3512-4c30-afae-e7d13a6c5982)
+![image](https://github.com/user-attachments/assets/b55a5522-f4ea-4809-856c-b7d50d0a4c21)
 
 </p>
 <br />
@@ -319,7 +319,7 @@ Select Register New PHP version.
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/28414cdb-21ba-4d41-a486-cea931fea6cf)
+![image](https://github.com/user-attachments/assets/24a46b1a-dffa-4d11-9fe7-8c6122f8cb55)
 
 
 </p>
@@ -331,18 +331,18 @@ Click the three dots to browse through it.
 </p>
 </p>
   
-![image](https://github.com/user-attachments/assets/22f7c401-d98d-4cc3-a0b6-ac9f329edf42)
+![image](https://github.com/user-attachments/assets/142a1d47-20b5-40d9-8930-be8a5480be73)
 
 </p>
 <br />
 
 <p align="center">
-Go to C drive and into PHP folder. Then select php-cgi.exe. Then click OK.
+Go to C drive and into PHP folder. Then select php-cgi.exe, then click open. Then click OK.
 
 </p>
 </p>
   
-![image](https://github.com/user-attachments/assets/e67b3c9f-8c2e-4b58-8669-eb9c7dacc90d)
+![image](https://github.com/user-attachments/assets/0e2096cf-c2e3-4df2-929c-dd8fa9777cdf)
 
 </p>
 <br />
