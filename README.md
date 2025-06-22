@@ -268,7 +268,7 @@ Launch Configuration Wizard (after install).
 <br />
 
 <p align="center">
-Choose Standard Configuration, then next. Then choose "Install As Window Service", then click next. Follow by putting this login information in the setup: Username: root ; Password: root.
+Choose Standard Configuration, then next. Then choose "Install As Window Service" (leave the default setting for this alone), then click next. Follow by putting this login information in the setup: new root password: root ; confirm: root. Then click next, then execute. 
 
 </p>
 </p>
