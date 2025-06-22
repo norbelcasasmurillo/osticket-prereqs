@@ -447,9 +447,8 @@ On the right, click “Browse *:80”
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/bf96f8a1-2c9d-4155-8cc5-67d9b3b8a62c)
+![image](https://github.com/user-attachments/assets/53b71f9f-ed7f-44f4-ae6f-66f762ffc32a)
 
-![image](https://github.com/user-attachments/assets/314a5bc3-f84b-4055-b25f-8bcec3331519)
 </p>
 <br />
 
