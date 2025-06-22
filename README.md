@@ -469,7 +469,7 @@ Note that some extensions are not enabled. Go back to IIS, sites -> Default -> o
 </p>
 </p>
   
-![image](https://github.com/user-attachments/assets/a2f623aa-e331-4d66-a5fc-9776d1a508c5)
+![image](https://github.com/user-attachments/assets/be2b850a-4b02-40fc-8f58-4a86baaefa83)
 
 </p>
 <br />
