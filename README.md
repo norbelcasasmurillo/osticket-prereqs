@@ -513,7 +513,7 @@ Refresh the osTicket site in your browser, observe the changes
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/6ee11063-83d1-49c8-90cd-37152e6621f6)
+![image](https://github.com/user-attachments/assets/b3dff0d5-94f8-41dd-8dde-3ee96b70dfa1)
 
 </p>
 <br />
