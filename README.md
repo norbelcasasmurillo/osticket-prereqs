@@ -410,7 +410,8 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 
 </p>
 </p>
-![image](https://github.com/user-attachments/assets/3350994b-81a1-4b85-acd9-bd0a27016da6)
+
+![image](https://github.com/user-attachments/assets/ae6bc5a7-b78f-4802-b12d-dfa63305463e)
 
 </p>
 <br />
@@ -421,9 +422,9 @@ Reload IIS (Open IIS, Stop and Start the server)
 </p>
 </p>
   
-![image](https://github.com/user-attachments/assets/9de40a17-3b15-4950-9d3a-941307b88176)
+![image](https://github.com/user-attachments/assets/c9b84a5e-9a05-4b31-ac41-c467d2d026de)
 
-![image](https://github.com/user-attachments/assets/af201faa-895a-4d09-9a42-269a498a4a17)
+![image](https://github.com/user-attachments/assets/7f1e590e-7671-4c95-8949-5062bfc4eeeb)
 
 </p>
 <br />
@@ -435,7 +436,7 @@ Go to sites -> Default -> osTicket (then click on it)
 </p>
 </p>
   
-![image](https://github.com/user-attachments/assets/bf96f8a1-2c9d-4155-8cc5-67d9b3b8a62c)
+![image](https://github.com/user-attachments/assets/99d5ce6c-4bc1-427a-b5f8-21e0f7ae88bb)
 
 </p>
 <br />
