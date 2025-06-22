@@ -200,6 +200,17 @@ From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (
 <br />
 
 <p align="center">
+From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
+</p>
+</p>
+  
+![image](https://github.com/user-attachments/assets/31899bec-7e95-4a71-b273-f2d222e5af20)
+
+
+</p>
+<br />
+
+<p align="center">
 In order to create the directory C:\PHP, first open a new file explorer folder. Go to the C drive within This PC icon. Create a new folder there, and name it PHP.
 </p>
 </p>
