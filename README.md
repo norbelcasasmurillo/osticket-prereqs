@@ -480,7 +480,7 @@ Double-click PHP Manager
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/87575a1f-69d8-403d-a9f8-b6ebd7aee6d9)
+![Screenshot (4)](https://github.com/user-attachments/assets/34ab5753-f80e-44c3-af89-db26879ea8d1)
 
 </p>
 <br />
@@ -491,7 +491,7 @@ Click “Enable or disable an extension”
 </p>
 </p>
   
-![image](https://github.com/user-attachments/assets/2a858bbe-e4b2-4897-9213-8ba72d38422d)
+![image](https://github.com/user-attachments/assets/29b3c696-6126-4f4d-b92d-868a3a1979fc)
 
 </p>
 <br />
@@ -502,7 +502,7 @@ Enable: php_imap.dll ; Enable: php_intl.dll ; Enable: php_opcache.dll
 </p>
 </p>
   
-![image](https://github.com/user-attachments/assets/406d4b20-1141-42b7-bb49-5a621f9c044a)
+![image](https://github.com/user-attachments/assets/7fc79525-73d6-4432-8c1e-947d11f05153)
 
 </p>
 <br />
