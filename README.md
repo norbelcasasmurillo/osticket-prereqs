@@ -672,7 +672,7 @@ Open Heidi SQL to install. (Yes to everything, check launch, and click finish)
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/4b15c016-4926-4669-978d-9bd8129847e5)
+![image](https://github.com/user-attachments/assets/67d15816-59cb-4d49-80ba-ac71a55f2559)
 
 </p>
 <br />
@@ -683,7 +683,7 @@ Click Skip
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/84c007e0-7f07-4add-8b2d-95992065ca3e)
+![image](https://github.com/user-attachments/assets/5e6405a7-4e21-42fe-8a45-0b5610e73244)
 
 </p>
 <br />
@@ -694,18 +694,18 @@ Click New
 </p>
 </p>
   
-![image](https://github.com/user-attachments/assets/ba2709c8-3d93-4d54-91f4-ef4d85eecc24)
+![image](https://github.com/user-attachments/assets/3331094e-75a9-4514-8aad-d442d9cda178)
 
 </p>
 <br />
 
 <p align="center">
-Create a new session, root/root, then click open
+In order to create a new session, type root for username and password, then click open
 
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/d7f1c652-3852-402b-a149-a3ef193bb057)
+![image](https://github.com/user-attachments/assets/5a83d2e6-f2d3-4741-953f-34a37988ad69)
 
 </p>
 <br />
