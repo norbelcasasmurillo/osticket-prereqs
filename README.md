@@ -582,18 +582,18 @@ Select Principal.
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/c783f6cd-b6be-43bf-90af-3633ce9bd494)
+![image](https://github.com/user-attachments/assets/5bc7c101-addb-4693-a50b-1157679cfb08)
 
 </p>
 <br />
 
 <p align="center">
-Type everyone, then click check name, then OK.In real life, this is not ideal for security purposes.
+Type everyone, then click check name, then OK. In real life, this is not ideal for security purposes.
 
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/f28dc13f-b26b-4b5b-aaf5-7759bd61a1c4)
+![image](https://github.com/user-attachments/assets/23d08dc7-57f0-472f-a517-00686f93ac27)
 
 </p>
 <br />
@@ -604,7 +604,7 @@ Then click full control, then OK.
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/71c8f55b-0651-42e8-b11b-bf6d279aa16a)
+![image](https://github.com/user-attachments/assets/1c64771a-5a43-4f0e-850f-fde974222f25)
 </p>
 <br />
 
@@ -614,7 +614,7 @@ Make sure in the name it should be ‘‪C:\inetpub\wwwroot\osTicket\include\ost
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/1f74d383-1edb-4ec9-bd15-16038cb39f9c)
+![image](https://github.com/user-attachments/assets/95a4d20b-f3a3-44f5-b6c3-0a0f713b6784)
 
 </p>
 <br />
@@ -625,7 +625,7 @@ Then click OK in ost-config.php properties.
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/53ca1561-f387-41e9-8412-fedd37bbeec7)
+![image](https://github.com/user-attachments/assets/a1dd0444-00b0-4ef6-9e20-d9f822a77994)
 
 </p>
 <br />
@@ -636,18 +636,20 @@ Continue Setting up osTicket in the browser (click Continue)
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/f3a289e9-687f-4735-9899-42fb4140606d)
+![image](https://github.com/user-attachments/assets/933d94f9-882b-4577-848a-bf28415bcd87)
 
 </p>
 <br />
 
 <p align="center">
-Name: Helpdesk ; Default email (receives email from customers) ; (The other email should be different)
+- **Name:** Helpdesk 
+- **Default email (receives email from customers):** any
+- **(The other email should be different)**
 
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/576d0461-1e73-44df-9fd7-17aac02761c4)
+![image](https://github.com/user-attachments/assets/37504d74-6da5-4004-9fd2-3569ad4aaf47)
 
 </p>
 <br />
@@ -658,7 +660,7 @@ Use your admin login info there. (Afterwards move on to the next step, but we ar
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/83dfb887-b26b-4698-8cd1-eebf11359fcf)
+![image](https://github.com/user-attachments/assets/2ab688c9-4112-4fbd-85aa-f4f00748ccc9)
 
 </p>
 <br />
