@@ -524,7 +524,7 @@ Rename: ost-config.php. From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconf
 </p>
 </p>
   
-![image](https://github.com/user-attachments/assets/291614e6-0c01-4c1e-8fef-635ec061e705)
+![image](https://github.com/user-attachments/assets/6f557a64-a590-44bd-ab55-0cb37b4d1724)
 
 </p>
 <br />
@@ -535,7 +535,7 @@ Assign Permissions: ost-config.php (Right click file and go to properties)
 </p>
 </p>
   
-![image](https://github.com/user-attachments/assets/7354ec22-13b0-46eb-886f-79acc6e327b1)
+![image](https://github.com/user-attachments/assets/1c41ddf3-414d-4510-a70b-518bdff67d64)
 
 </p>
 <br />
@@ -547,7 +547,7 @@ Then go to Security -> Advanced
 </p>
 </p>
   
-![image](https://github.com/user-attachments/assets/dcb514d2-a351-45bf-bb6f-96fffdc66c6c)
+![image](https://github.com/user-attachments/assets/998bb06f-8976-42c1-85a4-606a883f1dff)
 
 </p>
 <br />
@@ -559,9 +559,8 @@ Disable inheritance -> Remove All
 </p>
 </p>
   
-![image](https://github.com/user-attachments/assets/63e308f0-9363-4a35-84b8-7c65d4ef7c0d)
+![image](https://github.com/user-attachments/assets/c5e2fff5-29b5-4497-b078-fdc7645d096c)
 
-![image](https://github.com/user-attachments/assets/64aad517-4b18-455e-beed-b6de24c2e1e2)
 
 </p>
 <br />
@@ -572,7 +571,7 @@ In order to  go from New Permissions -> Everyone -> All, first click on add to a
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/52dbb752-00d8-4214-8ce9-9fd94fd43a16)
+![image](https://github.com/user-attachments/assets/55ace340-e835-44d5-8518-2d14cf1ec801)
 
 </p>
 <br />
