@@ -700,26 +700,13 @@ Click New
 <br />
 
 <p align="center">
-In order to create a new session, type root for username and password, then click open
+In order to create a new session, type root for username and password, then click open to connect to the session. 
 
 </p>
 </p>
 
 ![image](https://github.com/user-attachments/assets/5a83d2e6-f2d3-4741-953f-34a37988ad69)
 
-</p>
-<br />
-
-<p align="center">
-Connect to the session.
-
-</p>
-</p>
-
-![image](https://github.com/user-attachments/assets/929af70d-ec12-41ad-8594-ed3c69814a27)
-
-</p>
-<br />
 
 <p align="center">
 Create a database called “osTicket”, then click OK (You have to right click Unnamed) (Can refresh this by right clicking after you install in the next step).
@@ -727,9 +714,8 @@ Create a database called “osTicket”, then click OK (You have to right click 
 </p>
 </p>
   
-![image](https://github.com/user-attachments/assets/eb2758c2-9d5d-4c6b-b20b-9976cc4c0115)
+![image](https://github.com/user-attachments/assets/83d26142-54db-41f2-9406-4cb6c7c25ebc)
 
-![image](https://github.com/user-attachments/assets/e8e133d6-385d-488d-88fb-198f54c3156b)
 </p>
 <br />
 
@@ -739,7 +725,7 @@ Continue Setting up osTicket in the browser. MySQL Database: osTicket ; MySQL Us
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/a0dc436c-172f-44b6-909b-cbd091fbc9a1)
+![image](https://github.com/user-attachments/assets/effc9097-ddb3-4c46-8df7-eb302f47e73d)
 
 </p>
 <br />
@@ -750,9 +736,10 @@ Congratulations, hopefully it is installed with no errors! Browse to your help d
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/a1878562-275f-4244-9d5c-60343b71ec4c)
+![image](https://github.com/user-attachments/assets/5c20d76c-d6be-473c-af2d-58d14a670537)
 
-![image](https://github.com/user-attachments/assets/547b05dd-4535-404a-b025-905829da1e41)
+![image](https://github.com/user-attachments/assets/7358f64e-a032-4722-8b6d-bffc9662c314)
+
 
 </p>
 <br />
@@ -764,7 +751,7 @@ End Users osTicket URL: http://localhost/osTicket/
 </p>
 </p>
 
-![image](https://github.com/user-attachments/assets/afe36545-953a-4547-9470-cf49fa3e220d)
+![image](https://github.com/user-attachments/assets/61689245-e39e-48e2-a73f-a12dc9787316)
 
 </p>
 <br />
