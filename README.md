@@ -183,6 +183,10 @@ Type 127.0.0.1 in the address bar in a browser in the windows-vm, then press ent
 </p>
 <br />
 
+
+<h3 align="center"> Installing PHP Manager </h3>
+
+
 <p align="center">
 From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) [Say yes to everything and install it]
 
@@ -195,6 +199,10 @@ From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (
 </p>
 <br />
 
+
+<h3 align="center"> Installing Rewrite Manager </h3>
+
+
 <p align="center">
 From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
 </p>
@@ -205,6 +213,10 @@ From the “osTicket-Installation-Files” folder install the Rewrite Module (re
 
 </p>
 <br />
+
+
+<h3 align="center"> Create directory called C:\PHP </h3>
+
 
 <p align="center">
 In order to create the directory C:\PHP, first open a new file explorer folder. Go to the C drive within This PC icon. Create a new folder there, and name it PHP.
@@ -232,6 +244,10 @@ From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nt
 </p>
 <br />
 
+
+<h3 align="center"> Download VC_redist </h3>
+
+
 <p align="center">
 From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
 
@@ -242,6 +258,10 @@ From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
 
 </p>
 <br />
+
+
+<h3 align="center"> Download MySQL </h3>
+
 
 <p align="center">
 From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
@@ -296,6 +316,10 @@ Save login information on the desktop with notepad.
 
 </p>
 <br />
+
+
+<h3 align="center"> Configurations in IIS </h3>
+
 
 <p align="center">
 Open IIS as an Admin
@@ -389,6 +413,10 @@ Then click start.
 </p>
 <br />
 
+
+<h3 align="center"> Install OsTicket </h3>
+
+
 <p align="center">
 Then, in order to install osTicket v1.15.8, first from the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” (extract in the given place)
 
@@ -423,6 +451,10 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 </p>
 <br />
 
+
+<h3 align="center"> Reload IIS </h3>
+
+
 <p align="center">
 Reload IIS (Open IIS, Stop and Start the server)
 
@@ -435,6 +467,10 @@ Reload IIS (Open IIS, Stop and Start the server)
 
 </p>
 <br />
+
+
+<h3 align="center"> OsTicket configurations </h3>
+
 
 <p align="center">
 Go to sites -> Default -> osTicket (then click on it)
@@ -626,6 +662,10 @@ Then click OK in ost-config.php properties.
 </p>
 <br />
 
+
+<h3 align="center"> Final OsTicket configurations </h3>
+
+
 <p align="center">
 Continue Setting up osTicket in the browser (click Continue)
 
@@ -660,6 +700,10 @@ Use your admin login info there. (Afterwards move on to the next step, but we ar
 
 </p>
 <br />
+
+
+<h3 align="center"> Install HeidiSQL </h3>
+
 
 <p align="center">
 From the “osTicket-Installation-Files” folder, install HeidiSQL. (https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe)
@@ -715,6 +759,10 @@ Create a database called “osTicket”, then click OK (You have to right click 
 </p>
 <br />
 
+
+<h3 align="center"> Continue Setting Up osTicket in Browser </h3>
+
+
 <p align="center">
 Continue Setting up osTicket in the browser. MySQL Database: osTicket ; MySQL Username: root ; MySQL Password: root ; Click “Install Now!”
 
@@ -751,3 +799,9 @@ End Users osTicket URL: http://localhost/osTicket/
 
 </p>
 <br />
+
+<h3 align="center">Conclusion</h3>
+
+<p align="center">
+"Great job! You've successfully set up osTicket on your Windows virtual machine. To avoid unnecessary charges, be sure to shut down the VM in Azure when you're not using it. Well done on completing this project!
+</p>
