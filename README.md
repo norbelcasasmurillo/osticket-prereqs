@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and guides you through installing the o
 
 <h2>List of Prerequisites</h2>
 
-- Download [osTicket-Installation-Files.zip](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) once inside the VM
+- All Items: [osTicket-Installation-Files.zip](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) 
 - Active Microsoft Azure Subscription 
 <h2>Installation Steps</h2>
 
