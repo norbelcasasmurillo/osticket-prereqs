@@ -11,10 +11,6 @@ This tutorial outlines the prerequisites and guides you through installing the o
 - Your personal computer can use any operating system
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
