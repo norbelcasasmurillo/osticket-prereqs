@@ -13,7 +13,7 @@ This tutorial outlines the prerequisites and guides you through installing the o
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Windows 10 Pro (VM)
 - Remote Desktop
 - Internet Information Services (IIS)
