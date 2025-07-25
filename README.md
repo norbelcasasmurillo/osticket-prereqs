@@ -10,6 +10,9 @@ This tutorial outlines the prerequisites and guides you through installing the o
 - The screenshots shown below are from Windows 10 (what I used for my personal computer and VM)
 - Your personal computer can use any operating system
 
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: Ticketing System Tutorial Part 1: osTicket - Prerequisites and Installation](https://www.youtube.com/watch?v=MwSmFoCdFtw&t=437s)
 
 <h2>Environments and Technologies Used</h2>
 
